@@ -2,7 +2,7 @@ Implementacion Patron Adapter "Clean All"
 
 Integrantes:
 	Duvan Alejandro Zambrano Molina 20161020011
-	Christian 
+	Christian Giovanny Ramírez Moreno 20161020093
 
 El programa consiste en un "juego" en el cual hay un entorno en donde hay un "villano" que salta a un
 lado de la pantalla, luego se añade un personaje que dispara desarrollado por otro compañero.
